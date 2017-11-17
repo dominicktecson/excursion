@@ -1,0 +1,20 @@
+body {
+  font-family: verdana, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+p {
+  font-family: verdana, sans-serif;
+  font-size: 16px;
+}
+
+a.cta {
+  color: aquamarine;
+  font-size: 16px;
+}
